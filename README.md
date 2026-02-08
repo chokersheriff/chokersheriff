@@ -1,5 +1,5 @@
 <p align="center">
-lesbian yadda yadda 17 go ship ashlia/verashley
+17
 </p>
 
 <p align="center">
