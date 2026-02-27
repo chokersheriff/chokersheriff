@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ne9tunes&label=live-ashley-reaction&color=f0a3d0&style=plastic" />
+<img src="https://komarev.com/ghpvc/?username=ne9tunes&label=🪦&color=5e5e5e&style=plastic" />
 </p>
